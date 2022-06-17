@@ -3,6 +3,5 @@
 <code>👷 Speciality: Software engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, Python</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@chebelok](https://telegram.me/chebelok)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [lotokhinivan@gmail.com](mailto:lotokhinivan@gmail.com)</code>
