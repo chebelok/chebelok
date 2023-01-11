@@ -23,7 +23,7 @@
 | 🟨 Object            | 🟩 logical operators  | 🟩 callback           | 🟨 Set              | 🟩 duplicate code    |
 | 🟨 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
 | 🟨 arrow function    | 🟩 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟩 return early      |
-| 🟨 generator         | ⬜ switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟩 linter            |
+| 🟨 generator         | 🟩 switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟩 linter            |
 | 🟨 async function    | 🟨 new Error          | 🟩 factory            | 🟨 string parsing   | ⬜️ prettier          |
 | 🟨 call, bind, apply |                       | 🟩 pool               | 🟨 timers           | 🟩 unittest          |
 | 🟨 Array             |                       | 🟩 wrapper            | 🟨 EventEmitter     | 🟩 git               |
@@ -36,24 +36,24 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
+| 🟩 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟦 Singleton             |
 | 🟩 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
 | 🟩 Structured programming      | 🟩 Static method      | ⬜ Immutable state   |                          |
-| 🟦 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
-| 🟦 Functional programming      | 🟦 Async method       | 🟩 Linked list       |                          |
+| 🟦 Non-structured programming  | 🟩 Method             | 🟩 Enum              |                          |
+| 🟦 Functional programming      | 🟩 Async method       | 🟩 Linked list       |                          |
 | 🟦 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
 | 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     |                          |
-| 🟦 Generic programming         | 🟦 Field declarations | 🟩 Trees             |                          |
-| 🟦 Concurrent computing        | 🟦 Inheritance        | 🟩 Graphs            |                          |
-| 🟦 Asyncronous programming     | 🟦 Parent class       | 🟦 Functor           |                          |
-| 🟦 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
-| 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
-| ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟦 Generator         |                          |
-| 🟦 Automata-based programming  | 🟦 Encapsulation      | 🟦 Iterator          |                          |
+| 🟦 Generic programming         | 🟩 Field declarations | 🟩 Trees             |                          |
+| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
+| 🟦 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
+| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
+| 🟦 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
+| ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |
+| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |
 | 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |
 | 🟦 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
-| ⬜ Metaprogramming             | 🟦 instance           |                      |                          |
+| ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
 | ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
 |                                | ⬜ Reflection         |                      |                          |
 
